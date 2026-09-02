@@ -22,7 +22,25 @@ A complete mobile solution tailored for managing birthday reminder entries, buil
 * **Form Validation:** Managed via `GlobalKey<FormState>`
 
 ## 📱 Screenshots
-*(You can upload your screenshots to GitHub and link them here)*
+<img width="1470" height="956" alt="Screenshot 2026-09-02 at 12 21 22 PM" src="https://github.com/user-attachments/assets/56d6f8ee-7c63-4a86-b229-f32e2a0b8d8f" />
+Home Screen
+
+<img width="1470" height="956" alt="Screenshot 2026-09-02 at 12 21 25 PM" src="https://github.com/user-attachments/assets/8208a7c1-ba66-47e7-9773-2c739fec713b" />
+<img width="1470" height="956" alt="Screenshot 2026-09-02 at 12 21 55 PM" src="https://github.com/user-attachments/assets/43fd7e2b-c432-4811-8c3e-56641aa9a6af" />
+Add New Person
+
+<img width="1470" height="956" alt="Screenshot 2026-09-02 at 12 26 04 PM" src="https://github.com/user-attachments/assets/4c6a0feb-b427-48c2-8d36-1175654f47fa" />
+Home Screen After Add Peoples
+
+<img width="1470" height="956" alt="Screenshot 2026-09-02 at 12 26 07 PM" src="https://github.com/user-attachments/assets/ba4a9356-bb3d-4ecd-896c-01998e86d39e" />
+Friend List
+
+<img width="1470" height="956" alt="Screenshot 2026-09-02 at 12 26 15 PM" src="https://github.com/user-attachments/assets/5fbb1141-ecbe-4938-8856-fe07e65edf1a" />
+Search Bar
+
+<img width="1470" height="956" alt="Screenshot 2026-09-02 at 12 26 25 PM" src="https://github.com/user-attachments/assets/d4d25006-0227-4c8d-9311-74c62a715a66" />
+<img width="1470" height="956" alt="Screenshot 2026-09-02 at 12 26 20 PM" src="https://github.com/user-attachments/assets/54946a2f-3e6f-48f8-b894-baaa7bad782c" />
+Friend Profile
 
 ## 🚀 How to Run
 1. Ensure you have Flutter installed.
